@@ -1,6 +1,8 @@
 # Página Inicial Instagram - DIO :mobile_phone_off:
 
-![Instaico240](E:\Cursos\Git-e-Github\Página-Inicial-Instagram-Projeto-DIO\main\img\Instaico240.png)
+
+
+
 
 ## Sobre o Projeto:
 
