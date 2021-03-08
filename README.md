@@ -6,4 +6,5 @@
 
 ## Sobre o Projeto:
 
-O projeto é inspirado na página inicial de login/alternar contas do Instagram, tendo como foco o front-end e a responsividade.
+O projeto é inspirado na página inicial de login/alternar contas do Instagram, utilizando HTML e CSS, tendo como foco o front-end e a responsividade.
+
