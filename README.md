@@ -6,5 +6,5 @@
 
 ## Sobre o Projeto:
 
-Recriar a página inicial de login/alternar contas do Instagram, utilizando HTML e CSS, tendo como foco o front-end e a responsividade.
+Objetivo de recriar a página inicial  do Instagram (login/alternar contas), utilizando HTML e CSS, tendo como foco o front-end e a responsividade.
 
